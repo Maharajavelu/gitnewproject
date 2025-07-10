@@ -3,3 +3,6 @@ This is the first commit
 Day 1 of the project
 GIT process and steps are easy
 This is the line to check the pull request
+
+add new features
+add new features
